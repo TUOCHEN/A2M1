@@ -17,7 +17,7 @@
   
   
   <span id="menu">
-  <button class="dropbtn">Home</button>
+  <button class="dropbtn"><a href="../index.html">Home</a></button>
   <button class="dropbtn">Products</button>
   <button class="dropbtn">Services</button>
   <div class="dropdown">

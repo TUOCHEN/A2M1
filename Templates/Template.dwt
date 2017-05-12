@@ -18,7 +18,7 @@
   
   <span id="menu">
   <button class="dropbtn">Home</button>
-  <button class="dropbtn">Produts</button>
+  <button class="dropbtn">Products</button>
   <button class="dropbtn">Services</button>
   <div class="dropdown">
       <button class="dropbtn">Event</button>

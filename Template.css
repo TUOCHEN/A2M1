@@ -8,7 +8,7 @@
 	background-size: cover;
 	border:10px;
 	text-align: center;
-	font-size:25px;
+	font-size:30px;
 	color:#FFFFFF;
 	margin: 0px;
 	padding:0px;
@@ -24,7 +24,7 @@
 	background-size: cover;
 	width: auto;
 	text-align: center;
-	font-size:20px;
+	font-size:30px;
 	margin: 0px;
 	padding: 0px;
 }
@@ -37,7 +37,7 @@
 	background-size: cover;
 	width: auto;
 	text-align: center;
-	font-size:20px;
+	font-size:30px;
 	margin: 0px;
 	padding: 0px;
 	
@@ -94,3 +94,19 @@
 	text-align:center;
 	width:500px;
 }
+
+.word{
+	text-align: center;
+	padding: 5px;
+	margin: auto;
+	font-size: 25px;
+}
+
+
+.table {
+	text-align: center;
+	width: auto;
+	padding: 25px;
+	margin: 25px auto auto auto;
+	
+} 
